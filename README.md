@@ -1,4 +1,5 @@
 # react-newsletter-component
+![](/images/demo.png)
 It's a three step process to sign up for a newsletter:
   - collect email, checked terms, then click 'Sign up',
   - next, collect first name , last name, and click 'Register',
